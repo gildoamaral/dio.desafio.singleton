@@ -1,10 +1,5 @@
 package org.example;
 
-/**
- * Singleton "preguiçoso".
- *
- * @author falvojr
- */
 public class SingletonLazy {
 
     private static SingletonLazy instancia;
